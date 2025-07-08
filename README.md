@@ -3,7 +3,7 @@
 
 ---
 
-## 🧑🏻‍💻 About Me
+## About Me
 
 📁 I’m **Aaryan Wani**, a **Data Engineer and Machine Learning Practitioner** with a passion for designing **real-time, scalable systems** and uncovering **business-critical insights** through data analytics. I hold a **Master’s in Applied Data Science from Syracuse University**, where I specialized in **data engineering, machine learning, and analytics-driven problem-solving**.
 
@@ -11,20 +11,20 @@
 
 ---
 
-## 🛠️ Core Skills
+## Core Skills
 
 ### Programming & Data Engineering
 Python, SQL, R, Snowflake, Hadoop, PostgreSQL, MongoDB, Docker, GitHub Actions
 
 ### Machine Learning & Analytics
-Scikit-learn, TensorFlow, Keras, Spark, Power BI, Tableau, Streamlit, Excel
+NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Spark, Power BI, Tableau, Streamlit, Excel
 
 ### Tools & APIs
 GitHub, GraphQL, Google Colab, Power Apps
 
 ---
 
-## 🌟 Beyond Tech
+## Beyond Tech
 
 When I’m not immersed in data and systems, you’ll find me:
 - Exploring **football analytics**
@@ -34,7 +34,7 @@ When I’m not immersed in data and systems, you’ll find me:
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
 - 📧 Email: aaryan272001@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/aaryan-wani](https://www.linkedin.com/in/aaryanwani)
