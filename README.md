@@ -1,13 +1,13 @@
 
-# 👋 Hi, I'm Aaryan!
+# Hi, I'm Aaryan!
 
 ---
 
 ## About Me
 
-📁 I’m **Aaryan Wani**, a **Data Engineer and Machine Learning Practitioner** with a passion for designing **real-time, scalable systems** and uncovering **business-critical insights** through data analytics. I hold a **Master’s in Applied Data Science from Syracuse University**, where I specialized in **data engineering, machine learning, and analytics-driven problem-solving**.
+I’m **Aaryan Wani**, a **Data Engineer and Machine Learning Practitioner** with a passion for designing **real-time, scalable systems** and uncovering **business-critical insights** through data analytics. I hold a **Master’s in Applied Data Science from Syracuse University**, where I specialized in **data engineering, machine learning, and analytics-driven problem-solving**.
 
-🔍 I thrive at the intersection of **data pipelines, predictive modeling, and visualization**, where technology meets impactful insights. My focus is on building solutions that drive measurable business outcomes—whether it's improving engagement through personalization or enabling instant decision-making with real-time analytics.
+I thrive at the intersection of **data pipelines, predictive modeling, and visualization**, where technology meets impactful insights. My focus is on building solutions that drive measurable business outcomes—whether it's improving engagement through personalization or enabling instant decision-making with real-time analytics.
 
 ---
 
