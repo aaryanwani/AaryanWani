@@ -37,7 +37,7 @@ When I’m not immersed in data and systems, you’ll find me:
 ## Let's Connect
 
 - 📧 Email: aaryan272001@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/aaryan-wani](https://www.linkedin.com/in/aaryanwani)
+- 🔗 LinkedIn: [linkedin.com/in/aaryan-wani](https://www.linkedin.com/in/aaryan-wani/)
 - 💻 GitHub: [github.com/aaryanwani](https://github.com/aaryanwani)
 
 ---
