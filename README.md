@@ -17,7 +17,7 @@ I thrive at the intersection of **data pipelines, predictive modeling, and visua
 Python, SQL, R, Snowflake, Hadoop, PostgreSQL, MongoDB, Docker, GitHub Actions
 
 ### Machine Learning & Analytics
-NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Spark, Power BI, Tableau, Streamlit, Excel
+NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch, Power BI, Tableau, Streamlit, Excel
 
 ### Tools & APIs
 GitHub, GraphQL, Google Colab, Power Apps
